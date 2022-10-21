@@ -5,7 +5,7 @@ I'm Asthraa ⚡, I'm a Jr. developer 💣, I'm looking to delve into the wonderf
 Make 🌟 my repository if you find my project interesting, at least your star could brighten someone's day ❤.
 
 <!-- Working GIF -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://i.pinimg.com/originals/25/68/be/2568be3474c3557e72e72e5dbfad22eb.gif' width='200"'>
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
