@@ -12,3 +12,13 @@ Make 🌟 my repository if you find my project interesting, at least your star c
 * Learning Graphic Design, Digital Edition & Animation👾. 
 * Learning Music Production.
 * Learning Java, C#, MongoDB, SQL😭.
+
+
+### 🔥 Challenges for Myself
+*
+*
+*
+*
+
+
+ ### 🔪 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
