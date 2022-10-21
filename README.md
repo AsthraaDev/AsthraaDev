@@ -8,7 +8,7 @@ Make 🌟 my repository if you find my project interesting, at least your star c
 <img align='right' src='https://i.pinimg.com/originals/25/68/be/2568be3474c3557e72e72e5dbfad22eb.gif' width='200"'>
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+* Learning FullStack Web Development💻.
+* Learning Graphic Design, Digital Edition & Animation👾. 
+* Learning Music Production.
+* Learning Java, C#, MongoDB, SQL😭.
