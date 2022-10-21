@@ -21,4 +21,4 @@ Make 🌟 my repository if you find my project interesting, at least your star c
 *
 
 
- ### 🔪 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:
