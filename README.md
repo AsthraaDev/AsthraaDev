@@ -13,10 +13,10 @@ I'm Asthraa ⚡, I'm a Jr. developer 💣, I'm looking to delve into the wonderf
 
 
 ### 🔥 Challenges for Myself
-*
-*
-*
-*
+* Learn 2 javascript frameworks per year🎃.
+* Be more patient when programming😆.
+* Have more than 10 good reviews per year😎.
+* Help many people with my open source code Projects🍬.
 
 
  ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:
