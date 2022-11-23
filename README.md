@@ -1,6 +1,6 @@
 # Hey! 👾👋
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Asthraa+Dev;)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Asthraa+Dev;)](https://git.io/typing-svg)
 
 I'm Asthraa ⚡, I'm a Jr. developer 💣, I'm looking to delve into the wonderful world of programming 🤖. I am passionate about sharing my projects as open source, creating software💻 and tools. Make 🌟 my repository if you find my project interesting, at least your star could brighten someone's day ❤.
 
